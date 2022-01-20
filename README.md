@@ -1,2 +1,3 @@
 # manasa
 my repositiry
+yes
